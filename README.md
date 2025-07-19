@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ertan</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React , Node.js , Express.js and Hono.js projects**
-- 🌱 I’m currently learning **TypeScript, Next.js, Spring Boot, Microservices Architecture and Docker**
+- 🔭 I’m currently working on **Node.js , Express.js , Hono.js Spring Boot, Microservices Architecture and Docker projects**
+- 🌱 I’m currently learning **TypeScript, Next.js, React.js**
 - 👯 I’m looking to collaborate on **open-source web projects**
 - 📫 How to reach me: **efeertan07@gmail.com**
 
